@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wandrille50
 - 👀 I’m interested in football, travels, history and architecture.
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently working on projets on mobile applications on SwiftUI
 
 
 <!---
